@@ -61,17 +61,17 @@ Para ilustrar a experiência do usuário e a estrutura visual do sistema, foram 
 
 ### 3.1 Autenticação e Acesso
 A porta de entrada do sistema conta com uma interface limpa para login e registro, garantindo que apenas usuários autorizados acessem os dados sensíveis de crédito e clientes.
-
-![Tela de Login e Registro](/Gestao_Emprestimo/prototipo/login.png)
+ 
+![Tela de Login e Registro](../prototipo/login.png)
 
 ### 3.2 Cadastro de Clientes
 O formulário de cadastro permite a distinção entre Pessoa Jurídica e Física, coletando dados essenciais para a análise de risco, como CPF/CNPJ e renda mensal, de forma organizada.
 
-![Interface de Cadastro de Cliente](/Gestao_Emprestimo/prototipo/cadastro%20de%20cliente.png)
+![Interface de Cadastro de Cliente](../prototipo/cadastro%20de%20cliente.png)
 
 ### 3.3 Dashboard e Gestão Operacional
 O painel principal oferece uma visão consolidada do negócio, apresentando métricas críticas (valores totais e status de empréstimos) e uma tabela interativa para busca, filtragem e acompanhamento detalhado das operações de crédito ativas e pendentes.
 
-![Painel de Controle e Gestão](/Gestao_Emprestimo/prototipo/valores%20do%20cliente.png)
+![Painel de Controle e Gestão](../prototipo/valores%20do%20cliente.png)
 
 
